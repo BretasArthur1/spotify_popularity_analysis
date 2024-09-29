@@ -94,7 +94,7 @@ jupyter notebook
 
 ## 🏆 Resultados
 
-Após a construção e ajuste dos modelos, o **Voting Classifier** alcançou uma acurácia de **XX.X%** no conjunto de validação, atendendo ao critério mínimo de 70% de acurácia. As métricas de precisão, recall e F1-score também foram analisadas para uma interpretação completa do desempenho do modelo.
+Após a construção e ajuste dos modelos, o **Voting Classifier** alcançou uma acurácia de **81.5%** no conjunto de validação, atendendo ao critério mínimo de 70% de acurácia. As métricas de precisão, recall e F1-score também foram analisadas para uma interpretação completa do desempenho do modelo.
 
 ## 🤝 Contribuições
 
